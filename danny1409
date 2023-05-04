@@ -1,0 +1,9 @@
+user.name=your_github_username
+user.email=your_github_email
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+remote.origin.url=https://github.com/danny1409/sohailrepair.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
